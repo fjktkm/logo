@@ -1,0 +1,24 @@
+{
+	"name": "Rust",
+	"image": "mcr.microsoft.com/devcontainers/rust:2-1-trixie",
+	"mounts": [
+		{
+			"source": "devcontainer-cargo-cache-${devcontainerId}",
+			"target": "/usr/local/cargo",
+			"type": "volume"
+		},
+		{
+			"target": "${containerWorkspaceFolder}/target",
+			"type": "volume"
+		}
+	],
+	// "postCreateCommand": "rustc --version",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"rust-lang.rust-analyzer"
+			]
+		}
+	},
+	"remoteUser": "root"
+}
