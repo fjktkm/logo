@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+anyhow = "1.0.102"
+cairo-rs = { version = "0.22.0", features = ["svg", "pdf", "png"] }
+
+[dev-dependencies]
+tempfile = "3"
