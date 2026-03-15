@@ -9,10 +9,10 @@ Rust + Cairo でロゴアセットを生成するリポジトリです。
 
 画像をクリックすると SVG を開きます。
 
-| Theme | Dark | Light |
-|---|---|---|
-| Preview | [![Dark logo](https://fjktkm.github.io/logo/logo_dark_512.png)](https://fjktkm.github.io/logo/logo_dark.svg) | [![Light logo](https://fjktkm.github.io/logo/logo_light_512.png)](https://fjktkm.github.io/logo/logo_light.svg) |
-| Assets | [SVG](https://fjktkm.github.io/logo/logo_dark.svg)<br>[PDF](https://fjktkm.github.io/logo/logo_dark.pdf)<br>PNG: [256px](https://fjktkm.github.io/logo/logo_dark_256.png) / [512px](https://fjktkm.github.io/logo/logo_dark_512.png) / [1024px](https://fjktkm.github.io/logo/logo_dark_1024.png) | [SVG](https://fjktkm.github.io/logo/logo_light.svg)<br>[PDF](https://fjktkm.github.io/logo/logo_light.pdf)<br>PNG: [256px](https://fjktkm.github.io/logo/logo_light_256.png) / [512px](https://fjktkm.github.io/logo/logo_light_512.png) / [1024px](https://fjktkm.github.io/logo/logo_light_1024.png) |
+| Theme | Light | Dark |
+|:---:|:---:|:---:|
+| Preview | [![Light logo](https://fjktkm.github.io/logo/logo_light_512.png)](https://fjktkm.github.io/logo/logo_light.svg) | [![Dark logo](https://fjktkm.github.io/logo/logo_dark_512.png)](https://fjktkm.github.io/logo/logo_dark.svg) |
+| Assets | [SVG](https://fjktkm.github.io/logo/logo_light.svg)<br>[PDF](https://fjktkm.github.io/logo/logo_light.pdf)<br>PNG: [256px](https://fjktkm.github.io/logo/logo_light_256.png) / [512px](https://fjktkm.github.io/logo/logo_light_512.png) / [1024px](https://fjktkm.github.io/logo/logo_light_1024.png) | [SVG](https://fjktkm.github.io/logo/logo_dark.svg)<br>[PDF](https://fjktkm.github.io/logo/logo_dark.pdf)<br>PNG: [256px](https://fjktkm.github.io/logo/logo_dark_256.png) / [512px](https://fjktkm.github.io/logo/logo_dark_512.png) / [1024px](https://fjktkm.github.io/logo/logo_dark_1024.png) |
 
 ## Usage
 
