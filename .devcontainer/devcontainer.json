@@ -12,7 +12,11 @@
 			"type": "volume"
 		}
 	],
-	// "postCreateCommand": "rustc --version",
+	"features": {
+		"ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
+			"packages": "libcairo2-dev"
+		}
+	},
 	"customizations": {
 		"vscode": {
 			"extensions": [
